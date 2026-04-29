@@ -10,8 +10,7 @@
 <div align="center">
 
 <!-- ✨ ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=QA+%26+Automation+Engineer;Mobile+App+Architect;Flutter+%26+Android+Developer;AI-Enhanced+Developer+Workflow" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=QA+%26+Automation+Engineer;Mobile+App+Architect+%7C+Flutter+%26+Android;Full-Stack+Developer+%7C+Laravel+%26+PHP;AI-Enhanced+Developer+Workflow" />
 </div>
 
 ---
@@ -21,6 +20,7 @@
 <p align="center">
 QA Engineer متخصص في اختبار التطبيقات اليدوي والأتمتة مع تركيز قوي على جودة البرمجيات وتجربة المستخدم.<br>
 Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid باستخدام Clean Architecture وState Management.<br>
+Full-Stack Developer أعمل أيضاً على مشاريع Web باستخدام PHP وLaravel مع REST APIs.<br>
 أستخدم أدوات الذكاء الاصطناعي لتحسين الإنتاجية، اكتشاف الأخطاء، وتسريع التطوير.
 </p>
 
@@ -37,7 +37,6 @@ Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid ب�
 </div>
 
 ---
-
 <div align="center">
 
 <table>
@@ -46,7 +45,7 @@ Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid ب�
     <th>🧰 Tools</th>
   </tr>
 
-  <!-- Mobile Development -->
+  <!-- Mobile -->
   <tr>
     <td>📱 Mobile Development</td>
     <td>
@@ -54,23 +53,31 @@ Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid ب�
     </td>
   </tr>
 
-  <!-- State Management & Architecture -->
+  <!-- Web -->
   <tr>
-    <td>🏗️ Architecture & State</td>
+    <td>🌐 Web Development</td>
     <td>
-      GetX • Bloc • Provider • Clean Architecture • REST API
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql" />
     </td>
   </tr>
 
   <!-- Backend -->
   <tr>
-    <td>☁️ Backend & Database</td>
+    <td>☁️ Backend & APIs</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=firebase,laravel,mysql" />
+      <img src="https://skillicons.dev/icons?i=firebase,nodejs,mysql" />
     </td>
   </tr>
 
-  <!-- QA Engineering -->
+  <!-- Architecture -->
+  <tr>
+    <td>🏗️ Architecture & State Management</td>
+    <td>
+      GetX • Bloc • Provider • Clean Architecture • REST API • GraphQL
+    </td>
+  </tr>
+
+  <!-- QA -->
   <tr>
     <td>🧪 QA Engineering</td>
     <td>
@@ -78,11 +85,11 @@ Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid ب�
     </td>
   </tr>
 
-  <!-- Testing Workflow -->
+  <!-- Testing -->
   <tr>
     <td>🔍 Testing Workflow</td>
     <td>
-      Manual Testing • Automation Testing • API Testing • Bug Reporting • Test Cases Design
+      Manual Testing • Automation Testing • API Testing • Bug Reporting • Test Case Design
     </td>
   </tr>
 
@@ -90,7 +97,7 @@ Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid ب�
   <tr>
     <td>⚙️ DevOps & CI/CD</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,git,github" />
+      <img src="https://skillicons.dev/icons?i=docker,git,github" /><br>
       GitHub Actions • GitLab CI • Fastlane
     </td>
   </tr>
@@ -103,16 +110,16 @@ Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid ب�
     </td>
   </tr>
 
-  <!-- AI Tools -->
+  <!-- AI -->
   <tr>
-    <td>🤖 AI & Productivity</td>
+    <td>🤖 AI & Productivity Tools</td>
     <td>
       <img src="https://skillicons.dev/icons?i=github,notion,vscode" /><br>
-      ChatGPT • Copilot • Claude AI • Gemini AI • AI Debugging • AI Testing
+      ChatGPT • Copilot • Claude AI • Gemini AI • AI Testing • AI Debugging • Prompt Engineering
     </td>
   </tr>
 
-  <!-- Development Tools -->
+  <!-- Tools -->
   <tr>
     <td>🧰 Development Tools</td>
     <td>

@@ -1,105 +1,211 @@
-import React, { useEffect, useState } from "react";
-import { motion } from "framer-motion";
+<div align="center">
 
-export default function GitHubProfile() {
-  const [commits, setCommits] = useState([]);
-  const [stats, setStats] = useState(null);
+<!-- 🌌 ENTERPRISE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0c29,100:00F7FF&height=340&section=header&text=Osama%20Hillis&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Architect%20%7C%20QA%20Engineer%20%7C%20System%20Designer%20%7C%20DevOps%20Thinker&descSize=18&descAlignY=60" width="100%" />
 
-  const username = "oasamaheles";
+<!-- ⚡ TYPE ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=Enterprise+Software+Engineer;Mobile+Architect+%7C+QA+Automation+Expert;Building+Scalable+Distributed+Systems;Clean+Architecture+%7C+CI%2FCD+%7C+Cloud+Engineering" />
 
-  useEffect(() => {
-    // Mock GitHub stats (replace with GitHub API or GraphQL)
-    setStats({
-      repos: 42,
-      commits: 1284,
-      prs: 97,
-      issues: 31,
-    });
+</div>
 
-    // Simulated real-time commits feed
-    const interval = setInterval(() => {
-      setCommits((prev) => [
-        {
-          id: Date.now(),
-          msg: "Updated CI/CD pipeline",
-          repo: "sezon-app",
-          time: new Date().toLocaleTimeString(),
-        },
-        ...prev.slice(0, 4),
-      ]);
-    }, 4000);
+---
 
-    return () => clearInterval(interval);
-  }, []);
+# 🧠 Executive Summary
 
-  return (
-    <div className="min-h-screen bg-black text-white p-6">
-      {/* HEADER */}
-      <div className="text-center mb-10">
-        <h1 className="text-4xl font-bold text-cyan-400">Osama Hillis</h1>
-        <p className="text-gray-400">
-          Mobile Architect | QA Engineer | DevOps Thinker
-        </p>
-      </div>
+أنا مهندس برمجيات أركز على بناء أنظمة إنتاجية (Production Systems) وليس مجرد تطبيقات.
 
-      {/* GLASS STATS */}
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-10">
-        {stats && Object.entries(stats).map(([key, value]) => (
-          <motion.div
-            key={key}
-            whileHover={{ scale: 1.05 }}
-            className="backdrop-blur-xl bg-white/10 border border-white/20 p-4 rounded-2xl text-center"
-          >
-            <h2 className="text-cyan-300 text-xl font-bold">{value}</h2>
-            <p className="text-gray-400 capitalize">{key}</p>
-          </motion.div>
-        ))}
-      </div>
+💡 أؤمن بـ:
+- Stability > Features
+- Architecture > Code
+- Automation > Manual Work
+- Testing > Guessing
 
-      {/* 3D CARDS */}
-      <div className="grid md:grid-cols-2 gap-6 mb-10">
-        {[
-          {
-            title: "Emergency Tracking System",
-            desc: "Real-time GPS + Firebase + Life-critical reliability",
-          },
-          {
-            title: "SEZON E-Commerce",
-            desc: "Scalable Flutter + Clean Architecture",
-          },
-        ].map((project, i) => (
-          <motion.div
-            key={i}
-            whileHover={{ rotateY: 10, scale: 1.03 }}
-            className="bg-gradient-to-br from-cyan-900/40 to-black p-6 rounded-2xl border border-cyan-500/20 shadow-xl"
-          >
-            <h3 className="text-xl font-bold text-cyan-300">
-              {project.title}
-            </h3>
-            <p className="text-gray-400 mt-2">{project.desc}</p>
-          </motion.div>
-        ))}
-      </div>
+---
 
-      {/* LIVE COMMITS */}
-      <div className="backdrop-blur-xl bg-white/5 border border-white/10 p-6 rounded-2xl">
-        <h2 className="text-cyan-400 text-xl mb-4">Live Commits Feed</h2>
-        {commits.length === 0 && (
-          <p className="text-gray-500">Waiting for activity...</p>
-        )}
-        <ul className="space-y-2">
-          {commits.map((c) => (
-            <li key={c.id} className="text-sm text-gray-300">
-              <span className="text-cyan-400">{c.repo}</span> — {c.msg} ({c.time})
-            </li>
-          ))}
-        </ul>
-      </div>
+# 🏗 System Architecture Mindset
 
-      {/* FOOTER */}
-      <div className="text-center mt-10 text-gray-500 text-sm">
-        Enterprise React GitHub Profile Dashboard
-      </div>
-    </div>
-  );
-}
+✔ Clean Architecture  
+✔ Hexagonal Architecture  
+✔ MVVM / MVC / BLoC  
+✔ Microservices Thinking  
+✔ Event-driven Design  
+✔ Scalable State Management  
+
+---
+
+# 📱 Mobile Engineering Stack
+
+### 🔷 Flutter Ecosystem
+- Flutter SDK
+- Dart Advanced Patterns
+- GetX / Provider / BLoC
+- Firebase Integration
+- REST / GraphQL APIs
+- Offline-first Apps
+
+### 🤖 Android Native
+- Kotlin (Coroutines, Flow)
+- Java Legacy Systems
+- Jetpack Compose
+- Room Database
+- WorkManager
+- MVVM Architecture
+
+---
+
+# 🧪 QA Engineering (Advanced Level)
+
+- Unit Testing (JUnit / Mockito / Flutter Test)
+- Integration Testing
+- UI Testing (Widget Testing)
+- API Testing (Postman + Automation)
+- Regression Testing
+- Smoke Testing
+- Bug Lifecycle Management
+- Test Case Design (ISTQB mindset)
+
+---
+
+# ⚙ DevOps & Infrastructure
+
+- Git & GitHub (Advanced Flow)
+- GitHub Actions CI/CD
+- Docker (Containerization)
+- Linux (Ubuntu / Debian / Kali)
+- Bash / Shell Scripting
+- Build Automation
+- Environment Management
+
+---
+
+# ☁ Backend & Cloud
+
+- Firebase (Auth, Firestore, Functions, Messaging)
+- REST APIs
+- Laravel (PHP Framework)
+- MySQL / SQLite
+- Cloud Functions
+- Serverless Architecture
+
+---
+
+# 🧰 Full Toolchain (ALL PROGRAMS)
+
+### 💻 Development Tools
+- Android Studio
+- IntelliJ IDEA
+- Visual Studio Code
+- Xcode (basic)
+- Postman
+- GitHub Desktop
+
+### 🧪 Testing Tools
+- Postman
+- Chrome DevTools
+- Flutter DevTools
+- Firebase Test Lab
+
+### ⚙ DevOps Tools
+- Docker Desktop
+- Git
+- GitHub Actions
+- Linux Terminal
+
+### 🎨 Design Tools
+- Figma
+- Adobe XD
+- Photoshop (basic UI edits)
+
+### 📊 Productivity Tools
+- Jira
+- Trello
+- Notion
+- Slack
+- Microsoft Teams
+
+---
+
+# 📊 Enterprise GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oasamaheles&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oasamaheles&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=oasamaheles&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution System
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🧬 Engineering Philosophy
+
+✔ No manual processes  
+✔ No untested code  
+✔ No unscalable systems  
+
+---
+
+# 🚀 Featured Systems
+
+| 🚑 Emergency Tracking System | 🛒 SEZON E-Commerce Platform |
+|-----------------------------|-----------------------------|
+| Real-time GPS + Firebase | Scalable Flutter Architecture |
+| Life-critical reliability | Clean Architecture Pattern |
+| Background location tracking | Modular Codebase |
+
+---
+
+# 🌐 Enterprise Connectivity
+
+<div align="center">
+
+<a href="mailto:osamaheles8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<a href="https://linkedin.com/in/oasamaheles">
+  <img src="https://img.shields.io/badge/LinkedIn-0057FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.behance.net/osamaheles">
+  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=behance&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+# 🔥 Final Quote
+
+<div align="center">
+
+> “Enterprise systems are not built by writing code… they are built by designing failure-proof logic.”
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=120&section=footer"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=oasamaheles&color=00F7FF&style=for-the-badge&label=ENTERPRISE+PROFILE+VIEWS" />
+
+</div>

@@ -1,131 +1,107 @@
 <div align="center">
 
-<!-- 🌌 ENTERPRISE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0c29,100:00F7FF&height=340&section=header&text=Osama%20Hillis&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Architect%20%7C%20QA%20Engineer%20%7C%20System%20Designer%20%7C%20DevOps%20Thinker&descSize=18&descAlignY=60" width="100%" />
+<!-- 🌌 HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0c29,100:00F7FF&height=320&section=header&text=Osama%20Hillis&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Engineer%20%7C%20QA%20Engineer%20%7C%20System%20Designer&descSize=18&descAlignY=60" width="100%" />
 
-<!-- ⚡ TYPE ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=Enterprise+Software+Engineer;Mobile+Architect+%7C+QA+Automation+Expert;Building+Scalable+Distributed+Systems;Clean+Architecture+%7C+CI%2FCD+%7C+Cloud+Engineering" />
+<!-- ⚡ ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Mobile+%7C+QA+Automation+Engineer;Clean+Architecture+%7C+CI%2FCD+%7C+Cloud+Systems" />
 
 </div>
 
 ---
 
-# 🧠 Executive Summary
+# 🧠 Summary
 
-أنا مهندس برمجيات أركز على بناء أنظمة إنتاجية (Production Systems) وليس مجرد تطبيقات.
+مهندس برمجيات أركز على بناء أنظمة قابلة للتوسع والإنتاج (Production-Ready Systems) مع اهتمام بالمعمارية والجودة والأتمتة.
 
-💡 أؤمن بـ:
-- Stability > Features
-- Architecture > Code
-- Automation > Manual Work
-- Testing > Guessing
-
----
-
-# 🏗 System Architecture Mindset
-
-✔ Clean Architecture  
-✔ Hexagonal Architecture  
-✔ MVVM / MVC / BLoC  
-✔ Microservices Thinking  
-✔ Event-driven Design  
-✔ Scalable State Management  
+**أؤمن بـ:**
+- Stability > Features  
+- Architecture > Code  
+- Automation > Manual Work  
+- Testing > Guessing  
 
 ---
 
-# 📱 Mobile Engineering Stack
+# 🏗 Architecture
 
-### 🔷 Flutter Ecosystem
-- Flutter SDK
-- Dart Advanced Patterns
+- Clean Architecture  
+- MVVM / MVC / BLoC  
+- Microservices Thinking  
+- Event-driven Design  
+- Scalable State Management  
+
+---
+
+# 📱 Mobile Development
+
+### Flutter
+- Dart
 - GetX / Provider / BLoC
-- Firebase Integration
-- REST / GraphQL APIs
+- Firebase
+- REST APIs
 - Offline-first Apps
 
-### 🤖 Android Native
+### Android
 - Kotlin (Coroutines, Flow)
-- Java Legacy Systems
 - Jetpack Compose
 - Room Database
 - WorkManager
-- MVVM Architecture
+- MVVM
 
 ---
 
-# 🧪 QA Engineering (Advanced Level)
+# 🧪 QA Engineering
 
-- Unit Testing (JUnit / Mockito / Flutter Test)
-- Integration Testing
-- UI Testing (Widget Testing)
-- API Testing (Postman + Automation)
-- Regression Testing
-- Smoke Testing
-- Bug Lifecycle Management
-- Test Case Design (ISTQB mindset)
+- Unit & Integration Testing  
+- UI / Widget Testing  
+- API Testing  
+- Regression & Smoke Testing  
+- Test Case Design  
+- Bug Lifecycle Management  
 
 ---
 
-# ⚙ DevOps & Infrastructure
+# ⚙ DevOps
 
-- Git & GitHub (Advanced Flow)
-- GitHub Actions CI/CD
-- Docker (Containerization)
-- Linux (Ubuntu / Debian / Kali)
-- Bash / Shell Scripting
-- Build Automation
-- Environment Management
-
----
-
-# ☁ Backend & Cloud
-
-- Firebase (Auth, Firestore, Functions, Messaging)
-- REST APIs
-- Laravel (PHP Framework)
-- MySQL / SQLite
-- Cloud Functions
-- Serverless Architecture
+- Git & GitHub  
+- CI/CD (GitHub Actions)  
+- Docker  
+- Linux (Ubuntu)  
+- Bash Scripting  
+- Build Automation  
 
 ---
 
-# 🧰 Full Toolchain (ALL PROGRAMS)
+# ☁ Backend
 
-### 💻 Development Tools
+- Firebase (Auth, Firestore, Functions)  
+- REST APIs  
+- Laravel (Basics)  
+- MySQL / SQLite  
+- Serverless Architecture  
+
+---
+
+# 🧰 Tools
+
+### Development
 - Android Studio
 - IntelliJ IDEA
-- Visual Studio Code
-- Xcode (basic)
+- VS Code
 - Postman
-- GitHub Desktop
 
-### 🧪 Testing Tools
-- Postman
-- Chrome DevTools
-- Flutter DevTools
-- Firebase Test Lab
-
-### ⚙ DevOps Tools
-- Docker Desktop
-- Git
-- GitHub Actions
-- Linux Terminal
-
-### 🎨 Design Tools
+### Design
 - Figma
 - Adobe XD
-- Photoshop (basic UI edits)
 
-### 📊 Productivity Tools
+### Productivity
 - Jira
 - Trello
 - Notion
-- Slack
-- Microsoft Teams
 
 ---
 
-# 📊 Enterprise GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -134,43 +110,19 @@
 
 </div>
 
-<div align="center">
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=oasamaheles&theme=tokyonight&hide_border=true" />
+# 🚀 Projects
 
-</div>
+| 🚑 Emergency Tracking System | 🛒 SEZON App |
+|----------------------------|--------------|
+| Real-time GPS Tracking     | E-commerce Flutter App |
+| Firebase Backend           | Clean Architecture |
+| High Reliability System    | Modular Design |
 
 ---
 
-# 🐍 Contribution System
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-# 🧬 Engineering Philosophy
-
-✔ No manual processes  
-✔ No untested code  
-✔ No unscalable systems  
-
----
-
-# 🚀 Featured Systems
-
-| 🚑 Emergency Tracking System | 🛒 SEZON E-Commerce Platform |
-|-----------------------------|-----------------------------|
-| Real-time GPS + Firebase | Scalable Flutter Architecture |
-| Life-critical reliability | Clean Architecture Pattern |
-| Background location tracking | Modular Codebase |
-
----
-
-# 🌐 Enterprise Connectivity
+# 🌐 Contact
 
 <div align="center">
 
@@ -182,30 +134,18 @@
   <img src="https://img.shields.io/badge/LinkedIn-0057FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.behance.net/osamaheles">
-  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=behance&logoColor=black"/>
-</a>
-
 </div>
 
 ---
 
-# 🔥 Final Quote
+# 🔥 Quote
 
-<div align="center">
-
-> “Enterprise systems are not built by writing code… they are built by designing failure-proof logic.”
-
-</div>
+> “Good systems are not written fast… they are designed to last.”
 
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=120&section=footer"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=oasamaheles&color=00F7FF&style=for-the-badge&label=ENTERPRISE+PROFILE+VIEWS" />
 
 </div>

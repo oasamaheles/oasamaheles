@@ -40,56 +40,61 @@ Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid ب�
 
 ## 🛠️ Tech Stack & AI Tools
 
-### 📱 Mobile Development
-<div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java" />
-</div>
-
----
-
-### ☁️ Backend & Database
-<div align="center">
-<img src="https://skillicons.dev/icons?i=firebase,laravel,mysql" />
-</div>
-
----
-
-### 🧪 Testing & APIs
-<div align="center">
-<img src="https://skillicons.dev/icons?i=postman" />
-</div>
-
----
-
-### ⚙️ DevOps & Version Control
-<div align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github" />
-</div>
-
----
-
-### 🎨 UI/UX Design
-<div align="center">
-<img src="https://skillicons.dev/icons?i=figma" />
-</div>
-
----
-
-### 🤖 AI & Productivity Tools (Modern Stack)
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/ChatGPT-AI%20Assistant-00F7FF?style=for-the-badge&logo=openai&logoColor=black" />
-<img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Coding%20Assistant-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
-<img src="https://img.shields.io/badge/Claude-AI%20Assistant-00F7FF?style=for-the-badge&logo=anthropic&logoColor=black" />
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Tools & Technologies</th>
+  </tr>
 
-<br><br>
+  <tr>
+    <td>📱 Mobile Development</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java" />
+    </td>
+  </tr>
 
-<img src="https://img.shields.io/badge/AI%20Testing-Intelligent%20QA-00F7FF?style=flat-square" />
-<img src="https://img.shields.io/badge/AI%20Debugging-Faster%20Bug%20Detection-00F7FF?style=flat-square" />
-<img src="https://img.shields.io/badge/AI%20Code%20Review-Automated%20Quality-00F7FF?style=flat-square" />
+  <tr>
+    <td>☁️ Backend & Database</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=firebase,laravel,mysql" />
+    </td>
+  </tr>
+
+  <tr>
+    <td>🧪 Testing & APIs</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postman" />
+    </td>
+  </tr>
+
+  <tr>
+    <td>⚙️ DevOps & Version Control</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,git,github" />
+    </td>
+  </tr>
+
+  <tr>
+    <td>🎨 UI/UX Design</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=figma" />
+    </td>
+  </tr>
+
+  <tr>
+    <td>🤖 AI & Productivity Tools</td>
+    <td>
+      <b>ChatGPT</b> • <b>GitHub Copilot</b> • <b>Claude AI</b><br>
+      AI Testing • AI Debugging • AI Code Review
+    </td>
+  </tr>
+
+</table>
 
 </div>
+
 
 ---
 

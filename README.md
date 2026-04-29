@@ -44,58 +44,75 @@ Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid ب�
 
 <table>
   <tr>
-    <th>Category</th>
-    <th>Tools & Technologies</th>
+    <th>📌 Category</th>
+    <th>🧰 Tools & Technologies</th>
   </tr>
 
+  <!-- Mobile -->
   <tr>
     <td>📱 Mobile Development</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java" />
+      <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java" /><br>
+      GetX • Bloc • Provider • Clean Architecture • REST API Integration
     </td>
   </tr>
 
+  <!-- Backend -->
   <tr>
     <td>☁️ Backend & Database</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=firebase,laravel,mysql" />
+      <img src="https://skillicons.dev/icons?i=firebase,laravel,mysql" /><br>
+      Firestore • Realtime DB • API Development • Authentication Systems
     </td>
   </tr>
 
+  <!-- Testing -->
   <tr>
-    <td>🧪 Testing & APIs</td>
+    <td>🧪 QA & Testing</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postman" />
+      <img src="https://skillicons.dev/icons?i=postman" /><br>
+      Manual Testing • Automation Testing • API Testing • Test Cases • Bug Reporting (Jira / Trello)
     </td>
   </tr>
 
+  <!-- DevOps -->
   <tr>
     <td>⚙️ DevOps & Version Control</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,git,github" />
+      <img src="https://skillicons.dev/icons?i=docker,git,github" /><br>
+      CI/CD (GitHub Actions, GitLab CI) • Fastlane • Version Control Strategies
     </td>
   </tr>
 
+  <!-- UI/UX -->
   <tr>
     <td>🎨 UI/UX Design</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=figma" />
+      <img src="https://skillicons.dev/icons?i=figma" /><br>
+      Wireframing • Prototyping • User Flow Design • Design Systems
     </td>
   </tr>
 
+  <!-- AI -->
   <tr>
     <td>🤖 AI & Productivity Tools</td>
     <td>
-      <b>ChatGPT</b> • <b>GitHub Copilot</b> • <b>Claude AI</b><br>
-      AI Testing • AI Debugging • AI Code Review
+      ChatGPT • GitHub Copilot • Claude AI • Gemini AI<br>
+      AI Code Review • AI Debugging • AI Test Generation • Prompt Engineering
+    </td>
+  </tr>
+
+  <!-- Tools -->
+  <tr>
+    <td>🧰 Development Tools</td>
+    <td>
+      Android Studio • VS Code • IntelliJ IDEA • Firebase Console • Chrome DevTools
     </td>
   </tr>
 
 </table>
 
 </div>
-
-
 ---
 
 ## 📊 Technical Dashboard

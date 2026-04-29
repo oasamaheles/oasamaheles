@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- 🌌 HEADER -->
+<!-- 🌌 HERO HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0057FF&height=300&section=header&text=Osama%20Hillis&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=QA%20Engineer%20%7C%20Mobile%20Architect%20%7C%20Flutter%20Developer&descSize=20&descAlignY=58" width="100%"/>
 
 </div>
@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 <p align="center">
-QA Engineer متخصص في اختبار التطبيقات اليدوي والأتمتة مع اهتمام عميق بجودة البرمجيات وتجربة المستخدم.<br>
+QA Engineer متخصص في اختبار التطبيقات اليدوي والأتمتة مع تركيز قوي على جودة البرمجيات وتجربة المستخدم.<br>
 Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid باستخدام Clean Architecture وState Management.<br>
 أسعى لدمج التطوير مع الاختبار لبناء منتجات رقمية مستقرة، سريعة، وخالية من الأخطاء.
 </p>
@@ -19,13 +19,14 @@ Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid ب�
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=QA+%26+Automation+Expert;Mobile+App+Architect;Flutter+%26+Android+Developer;Building+Bug-Free+Experiences" />
+<!-- ✨ ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=QA+%26+Automation+Engineer;Mobile+App+Architect;Flutter+%26+Android+Developer;Building+Reliable+Digital+Products" />
 
 </div>
 
 ---
 
-## 📌 Quick Info
+## 📌 Profile Snapshot
 
 <div align="center">
 
@@ -37,27 +38,54 @@ Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid ب�
 
 ---
 
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java" />
+
+### ☁️ Backend & Database
+<img src="https://skillicons.dev/icons?i=firebase,laravel,mysql" />
+
+### 🧪 Testing & APIs
+<img src="https://skillicons.dev/icons?i=postman" />
+
+### ⚙️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github" />
+
+### 🎨 Design
+<img src="https://skillicons.dev/icons?i=figma" />
+
+</div>
+
+---
+
 ## 📊 Technical Dashboard
 
 <div align="center">
 
-| 🔝 Languages | ⚡ Stats |
-|-------------|----------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oasamaheles&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&langs_count=6" /> | <img src="https://github-readme-stats.vercel.app/api?username=oasamaheles&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF" /> |
+<table>
+<tr>
+
+<td align="center" width="50%">
+<b>🔝 Top Languages</b><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oasamaheles&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&langs_count=6" />
+</td>
+
+<td align="center" width="50%">
+<b>⚡ GitHub Stats</b><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=oasamaheles&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF" />
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java,firebase,laravel,mysql,postman,docker,git,figma" />
-</div>
-
----
-
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -100,4 +128,12 @@ Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid ب�
 
 <img src="https://komarev.com/ghpvc/?username=oasamaheles&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" />
 
+<br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+
+</div>
+
+<div align="right">
+<img src="https://img.shields.io/badge/Last_Sync-2026-00F7FF?style=flat-square&logo=git" />
 </div>

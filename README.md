@@ -1,65 +1,91 @@
 <h1 align="center">Hi 👋, I'm Osama Hillis</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=650&lines=QA+Engineer+%7C+Mobile+Developer;Flutter+%7C+Android+Specialist;Building+Real+World+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=QA+Engineer+%7C+Mobile+Developer;Flutter+%7C+Android+Specialist;I+build+apps+that+actually+work;Clean+Code+%7C+Tested+Systems;Always+Learning+New+Things" />
 </p>
 
-<h3 align="center">🚀 QA Engineer | Mobile App Developer | Palestine 🇵🇸</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Quality%20%26%20Performance-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Specialty-Mobile%20Apps-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Code-Clean%20Architecture-orange?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🧠 About Me
-- 🔍 Passionate **Quality Assurance Engineer**
-- 📱 **Mobile Developer (Flutter & Android)**
-- 🛠️ Backend experience with **Laravel & REST APIs**
-- ⚡ Focused on performance, clean code & testing
-- 🌱 Currently learning: **CI/CD & System Design**
+## 🧭 Who Am I
+
+```diff
++ QA Engineer who thinks like a developer
++ Mobile Developer who tests like a QA
+```
+
+I build **real-world mobile applications** with a strong focus on:
+
+* ⚡ Performance
+* 🧠 Clean Architecture
+* 🔍 Software Quality
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛍️ Sezon App (E-Commerce)
-<p>
-<img src="https://via.placeholder.com/250x500.png?text=Sezon+App" width="220"/>
+### 🛍️ Sezon App — E-Commerce Experience
+
+<p align="center">
+  <img src="https://via.placeholder.com/250x500.png?text=Sezon+App" width="220"/>
 </p>
 
-- Flutter + Firebase + GetX  
-- Product management, cart, authentication  
-- Clean UI + scalable structure  
+```yaml
+Tech: Flutter, Firebase, GetX
+Features:
+  - Authentication System
+  - Product Management
+  - Shopping Cart & Orders
+  - Clean & Scalable UI
+```
 
 ---
 
-### 🚑 Ambulance System
-<p>
-<img src="https://via.placeholder.com/250x500.png?text=Ambulance+System" width="220"/>
+### 🚑 Ambulance System — Emergency Solution
+
+<p align="center">
+  <img src="https://via.placeholder.com/250x500.png?text=Ambulance+System" width="220"/>
 </p>
 
-- Graduation Project  
-- Tracks injured people in real-time  
-- Built for emergency response situations  
+```yaml
+Goal: Real-time emergency tracking
+Impact:
+  - Helps locate injured individuals
+  - Designed for crisis situations
+```
 
 ---
 
-### 🍲 Recipe App
-<p>
-<img src="https://via.placeholder.com/250x500.png?text=Recipe+App" width="220"/>
+### 🍲 Recipe App — Android Application
+
+<p align="center">
+  <img src="https://via.placeholder.com/250x500.png?text=Recipe+App" width="220"/>
 </p>
 
-- Native Android App  
-- CRUD operations  
-- Modern UI + RecyclerView  
+```yaml
+Platform: Android
+Features:
+  - CRUD Operations
+  - RecyclerView UI
+  - Clean User Experience
+```
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Stack
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,android,java,firebase,php,laravel,mysql,sqlite,git,postman,figma,xd" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oasamaheles&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -76,6 +102,7 @@
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
 <a href="mailto:osamaheles8@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
@@ -92,7 +119,8 @@
 
 ---
 
-## 💡 Philosophy
+## ⚡ Philosophy
+
 <p align="center">
-  "I don't just build apps... I build reliable, tested solutions."
+  <i>"Good code works. Great code lasts."</i>
 </p>

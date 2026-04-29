@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- HERO HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0057FF&height=320&section=header&text=Osama%20Hillis&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Quality%20Assurance%20|%20Mobile%20App%20Architect&descSize=25&descAlignY=60" width="100%" />
 
 <p align="center">
@@ -14,6 +13,13 @@
 </div>
 
 </div>
+
+---
+
+## 👨‍💻 About Me
+- 📱 **Mobile App Architect** متخصص في بناء تطبيقات متكاملة باستخدام Flutter و Android.
+- 🛡️ خبير في **Software Quality Assurance**، أركز على بناء أكواد قابلة للاختبار (Testable Code) ومعايير جودة عالية.
+- 🚀 مهتم بالأمن السيبراني وأدوات الـ Penetration Testing لضمان أمان التطبيقات.
 
 ---
 
@@ -36,10 +42,16 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java,firebase,laravel,mysql,postman,docker,git,figma&perline=6" />
+### 📱 Development & Architecture
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java,firebase,laravel,mysql,figma" />
+</div>
+
+### 🛡️ QA, Testing & DevOps
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postman,docker,git,githubactions,linux" />
 </div>
 
 ---
@@ -54,8 +66,8 @@
 <td align="center" width="50%">
 
 ### 🛒 SEZON E-Commerce App  
-تطبيق تجارة إلكترونية متكامل باستخدام Flutter + Firebase
-
+تطبيق تجارة إلكترونية متكامل يركز على تجربة المستخدم والأداء العالي.
+<br>
 <a href="https://github.com/oasamaheles/SEZON-E-Commerce">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=oasamaheles&repo=SEZON-E-Commerce&theme=tokyonight&hide_border=true&title_color=00F7FF" />
 </a>
@@ -68,8 +80,8 @@
 <td align="center" width="50%">
 
 ### 🚑 Ambulance System  
-نظام تتبع طوارئ وإنقاذ في الحالات الحرجة
-
+نظام تتبع ذكي يهدف لتقليل زمن الاستجابة في الحالات الحرجة.
+<br>
 <a href="https://github.com/oasamaheles/AMBULANCE-SYSTEM">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=oasamaheles&repo=AMBULANCE-SYSTEM&theme=tokyonight&hide_border=true&title_color=00F7FF" />
 </a>
@@ -86,8 +98,7 @@
 
 ---
 
-## 📈 Contribution Graph
-
+## 📈 Contribution Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=oasamaheles&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
@@ -114,16 +125,10 @@
 
 ---
 
-## 👁️ Profile Views
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=oasamaheles&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" />
-</div>
 
----
-
-<div align="center">
-  
-> “Quality is not an act, it is a habit.”
+> “Quality is not an act, it is a habit.” 
+<br>
+<img src="https://komarev.com/ghpvc/?username=oasamaheles&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>

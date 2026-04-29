@@ -18,10 +18,10 @@
 ## 🧠 About Me
 
 <p align="left">
-QA Engineer متخصص في اختبار التطبيقات اليدوي والأتمتة مع تركيز قوي على جودة البرمجيات وتجربة المستخدم.<br>
-Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid باستخدام Clean Architecture وState Management.<br>
-Full-Stack Developer أعمل أيضاً على مشاريع Web باستخدام PHP وLaravel مع REST APIs.<br>
-أستخدم أدوات الذكاء الاصطناعي لتحسين الإنتاجية، اكتشاف الأخطاء، وتسريع التطوير.
+QA Engineer متخصص في اختبار التطبيقات اليدوي والأتمتة مع تركيز على ضمان جودة البرمجيات وتحسين تجربة المستخدم.  
+Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid باستخدام Clean Architecture وState Management.  
+Full-Stack Developer أطور تطبيقات ويب باستخدام PHP وLaravel مع بناء REST APIs قابلة للتوسع.  
+أستخدم أدوات الذكاء الاصطناعي لتحسين الإنتاجية، تسريع اكتشاف الأخطاء، ورفع كفاءة التطوير.
 </p>
 
 ---

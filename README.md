@@ -1,6 +1,5 @@
-بدي ياه احترافي وانيميشن مميز
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=280&section=header&text=Osama%20Hillis&fontSize=75&animation=fadeIn&fontAlignY=35&desc=Software%20Quality%20Assurance%20|%20Mobile%20App%20Architect&descSize=25&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0057FF&height=320&section=header&text=Osama%20Hillis&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=QA%20Engineer%20%7C%20Mobile%20Architect%20%7C%20Flutter%20Developer&descSize=22&descAlignY=58" width="100%"/>
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=QA+%26+Automation+Expert;Mobile+App+Architect+%7C+Flutter+%26+Android;Bridging+Development+and+Testing;Crafting+Bug-Free+Digital+Experiences" />

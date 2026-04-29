@@ -7,6 +7,15 @@
 
 ---
 
+<div align="center">
+
+<!-- ✨ ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=QA+%26+Automation+Engineer;Mobile+App+Architect;Flutter+%26+Android+Developer;Building+Reliable+Digital+Products" />
+
+</div>
+
+---
+
 ## 🧠 About Me
 
 <p align="center">
@@ -17,14 +26,7 @@ Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid ب�
 
 ---
 
-<div align="center">
 
-<!-- ✨ ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=QA+%26+Automation+Engineer;Mobile+App+Architect;Flutter+%26+Android+Developer;Building+Reliable+Digital+Products" />
-
-</div>
-
----
 
 ## 📌 Profile Snapshot
 

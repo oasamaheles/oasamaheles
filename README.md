@@ -38,22 +38,19 @@ Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid ب�
 
 ---
 
-## 🛠️ Tech Stack & AI Tools
-
 <div align="center">
 
 <table>
   <tr>
     <th>📌 Category</th>
-    <th>🧰 Tools & Technologies</th>
+    <th>🧰 Tools</th>
   </tr>
 
   <!-- Mobile -->
   <tr>
     <td>📱 Mobile Development</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java" /><br>
-      GetX • Bloc • Provider • Clean Architecture • REST API Integration
+      <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java" />
     </td>
   </tr>
 
@@ -61,8 +58,7 @@ Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid ب�
   <tr>
     <td>☁️ Backend & Database</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=firebase,laravel,mysql" /><br>
-      Firestore • Realtime DB • API Development • Authentication Systems
+      <img src="https://skillicons.dev/icons?i=firebase,laravel,mysql" />
     </td>
   </tr>
 
@@ -70,8 +66,7 @@ Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid ب�
   <tr>
     <td>🧪 QA & Testing</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postman" /><br>
-      Manual Testing • Automation Testing • API Testing • Test Cases • Bug Reporting (Jira / Trello)
+      <img src="https://skillicons.dev/icons?i=postman" />
     </td>
   </tr>
 
@@ -79,8 +74,7 @@ Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid ب�
   <tr>
     <td>⚙️ DevOps & Version Control</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,git,github" /><br>
-      CI/CD (GitHub Actions, GitLab CI) • Fastlane • Version Control Strategies
+      <img src="https://skillicons.dev/icons?i=docker,git,github" />
     </td>
   </tr>
 
@@ -88,32 +82,32 @@ Mobile Developer أعمل على تطوير تطبيقات Flutter وAndroid ب�
   <tr>
     <td>🎨 UI/UX Design</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=figma" /><br>
-      Wireframing • Prototyping • User Flow Design • Design Systems
+      <img src="https://skillicons.dev/icons?i=figma" />
     </td>
   </tr>
 
-  <!-- AI -->
+  <!-- AI Tools -->
   <tr>
-    <td>🤖 AI & Productivity Tools</td>
+    <td>🤖 AI Tools</td>
     <td>
-      ChatGPT • GitHub Copilot • Claude AI • Gemini AI<br>
-      AI Code Review • AI Debugging • AI Test Generation • Prompt Engineering
+      <img src="https://skillicons.dev/icons?i=github,notion,vscode" />
     </td>
   </tr>
 
-  <!-- Tools -->
+  <!-- Dev Tools -->
   <tr>
     <td>🧰 Development Tools</td>
     <td>
-      Android Studio • VS Code • IntelliJ IDEA • Firebase Console • Chrome DevTools
+      <img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea,firebase,chrome" />
     </td>
   </tr>
 
 </table>
 
 </div>
+
 ---
+
 
 ## 📊 Technical Dashboard
 

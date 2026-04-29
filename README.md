@@ -1,101 +1,211 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0057FF&height=320&section=header&text=Osama%20Hillis&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Quality%20Assurance%20|%20Mobile%20App%20Architect&descSize=22&descAlignY=60" width="100%" />
+<!-- 🌌 ENTERPRISE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0c29,100:00F7FF&height=340&section=header&text=Osama%20Hillis&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Architect%20%7C%20QA%20Engineer%20%7C%20System%20Designer%20%7C%20DevOps%20Thinker&descSize=18&descAlignY=60" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Mobile+Architect;QA+Automation+Expert+%7C+CI-CD;Flutter+%26+Native+Android+Specialist;Building+Scalable+%26+Bug-Free+Architectures" />
-</p>
-
-<div>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Scalability%20%26%20Testing-00F7FF?style=for-the-badge&logo=target&logoColor=black" />
-</div>
+<!-- ⚡ TYPE ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=Enterprise+Software+Engineer;Mobile+Architect+%7C+QA+Automation+Expert;Building+Scalable+Distributed+Systems;Clean+Architecture+%7C+CI%2FCD+%7C+Cloud+Engineering" />
 
 </div>
 
 ---
 
-## 🚀 Professional Synopsis
-أنا مطور تطبيقات هواتف ذكية ومعماري برمجيات (Mobile App Architect) بخبرة تمتد عبر دورة حياة تطوير البرمجيات الكاملة (SDLC). أؤمن بأن الكود الذي لا يمكن اختباره هو كود لا يجب كتابته.
-- 🎯 **الهدف الشخصي:** بناء أنظمة برمجية عالية الأداء، آمنة، وخالية من العيوب البرمجية.
-- 🔍 **مجال التركيز:** أتمتة الاختبارات (Automation Testing)، وتحويل الأفكار المعقدة إلى تطبيقات سلسة باستخدام Flutter و Android.
+# 🧠 Executive Summary
+
+أنا مهندس برمجيات أركز على بناء أنظمة إنتاجية (Production Systems) وليس مجرد تطبيقات.
+
+💡 أؤمن بـ:
+- Stability > Features
+- Architecture > Code
+- Automation > Manual Work
+- Testing > Guessing
 
 ---
 
-## 🛠️ Comprehensive Skill Matrix
+# 🏗 System Architecture Mindset
 
-### 📱 Mobile & Backend Architecture
-- **Frameworks:** Flutter, Android SDK (Kotlin/Java).
-- **Architecture:** Clean Architecture, MVVM, MVC, BLoC, Provider.
-- **Backend-as-a-Service:** Firebase (Auth, Firestore, Cloud Functions, Messaging).
-- **Web Technologies:** PHP (Laravel), MySQL.
-
-### 🛡️ Quality Assurance & Security
-- **Testing Tools:** Unit Testing, Integration Testing, Widget Testing (Flutter).
-- **API Testing:** Postman (Automated Collections).
-- **Security:** Security auditing for mobile apps, Pen-testing basics (sqlmap).
-
-### ⚙️ DevOps & Cloud Environment
-- **Containers:** Docker, Containerization of microservices.
-- **CI/CD:** GitHub Actions (Automated builds & tests).
-- **Environment:** Linux (Ubuntu/Debian), Shell Scripting.
+✔ Clean Architecture  
+✔ Hexagonal Architecture  
+✔ MVVM / MVC / BLoC  
+✔ Microservices Thinking  
+✔ Event-driven Design  
+✔ Scalable State Management  
 
 ---
 
-## 📊 Performance Metrics
+# 📱 Mobile Engineering Stack
+
+### 🔷 Flutter Ecosystem
+- Flutter SDK
+- Dart Advanced Patterns
+- GetX / Provider / BLoC
+- Firebase Integration
+- REST / GraphQL APIs
+- Offline-first Apps
+
+### 🤖 Android Native
+- Kotlin (Coroutines, Flow)
+- Java Legacy Systems
+- Jetpack Compose
+- Room Database
+- WorkManager
+- MVVM Architecture
+
+---
+
+# 🧪 QA Engineering (Advanced Level)
+
+- Unit Testing (JUnit / Mockito / Flutter Test)
+- Integration Testing
+- UI Testing (Widget Testing)
+- API Testing (Postman + Automation)
+- Regression Testing
+- Smoke Testing
+- Bug Lifecycle Management
+- Test Case Design (ISTQB mindset)
+
+---
+
+# ⚙ DevOps & Infrastructure
+
+- Git & GitHub (Advanced Flow)
+- GitHub Actions CI/CD
+- Docker (Containerization)
+- Linux (Ubuntu / Debian / Kali)
+- Bash / Shell Scripting
+- Build Automation
+- Environment Management
+
+---
+
+# ☁ Backend & Cloud
+
+- Firebase (Auth, Firestore, Functions, Messaging)
+- REST APIs
+- Laravel (PHP Framework)
+- MySQL / SQLite
+- Cloud Functions
+- Serverless Architecture
+
+---
+
+# 🧰 Full Toolchain (ALL PROGRAMS)
+
+### 💻 Development Tools
+- Android Studio
+- IntelliJ IDEA
+- Visual Studio Code
+- Xcode (basic)
+- Postman
+- GitHub Desktop
+
+### 🧪 Testing Tools
+- Postman
+- Chrome DevTools
+- Flutter DevTools
+- Firebase Test Lab
+
+### ⚙ DevOps Tools
+- Docker Desktop
+- Git
+- GitHub Actions
+- Linux Terminal
+
+### 🎨 Design Tools
+- Figma
+- Adobe XD
+- Photoshop (basic UI edits)
+
+### 📊 Productivity Tools
+- Jira
+- Trello
+- Notion
+- Slack
+- Microsoft Teams
+
+---
+
+# 📊 Enterprise GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oasamaheles&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&langs_count=6" height="200px"/></td>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=oasamaheles&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF" height="200px"/></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java,firebase,laravel,mysql,postman,docker,linux,git,githubactions,figma,vscode,idea" />
-      </td>
-    </tr>
-  </table>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oasamaheles&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oasamaheles&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
-
----
-
-## 🏆 Featured Case Studies
 
 <div align="center">
 
-| 🛒 SEZON E-Commerce | 🚑 Ambulance Tracking System |
-| :--- | :--- |
-| **Problem:** High-performance commerce needs stable state management. | **Problem:** Real-time emergency response requires zero latency. |
-| **Solution:** Built using **Clean Architecture** with Flutter & Firebase. | **Solution:** Integrated **Google Maps API** with background GPS sync. |
-| [📂 View Repo](https://github.com/oasamaheles/SEZON-E-Commerce) | [📂 View Repo](https://github.com/oasamaheles/AMBULANCE-SYSTEM) |
+<img src="https://github-readme-streak-stats.herokuapp.com?user=oasamaheles&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🤝 Methodologies & Soft Skills
-- **Agile/Scrum:** ممارس لإدارة المشاريع الرشيقة.
-- **Git Flow:** إدارة الفروع (Branches) بشكل احترافي في بيئة العمل الجماعي.
-- **Technical Writing:** توثيق الأكواد (Documentation) بشكل واضح للمطورين.
+# 🐍 Contribution System
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+</div>
 
 ---
 
-## 🌐 Connectivity & Network
+# 🧬 Engineering Philosophy
+
+✔ No manual processes  
+✔ No untested code  
+✔ No unscalable systems  
+
+---
+
+# 🚀 Featured Systems
+
+| 🚑 Emergency Tracking System | 🛒 SEZON E-Commerce Platform |
+|-----------------------------|-----------------------------|
+| Real-time GPS + Firebase | Scalable Flutter Architecture |
+| Life-critical reliability | Clean Architecture Pattern |
+| Background location tracking | Modular Codebase |
+
+---
+
+# 🌐 Enterprise Connectivity
 
 <div align="center">
-  <a href="mailto:osamaheles8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/oasamaheles"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.behance.net/osamaheles"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/></a>
-  <a href="https://wa.me/YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+<a href="mailto:osamaheles8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<a href="https://linkedin.com/in/oasamaheles">
+  <img src="https://img.shields.io/badge/LinkedIn-0057FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.behance.net/osamaheles">
+  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=behance&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+# 🔥 Final Quote
+
+<div align="center">
+
+> “Enterprise systems are not built by writing code… they are built by designing failure-proof logic.”
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oasamaheles&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-  <br>
-  <b>“Writing clean code is what you do when you care about your craft.”</b>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=oasamaheles&color=00F7FF&style=for-the-badge&label=GLOBAL+HITS" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=120&section=footer"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=oasamaheles&color=00F7FF&style=for-the-badge&label=ENTERPRISE+PROFILE+VIEWS" />
+
 </div>

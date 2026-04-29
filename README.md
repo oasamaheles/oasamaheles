@@ -1,65 +1,86 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=Osama%20Hillis&fontSize=70&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=QA+Engineer+%7C+Mobile+Developer;Flutter+%7C+Android+Specialist;Building+High-Quality+Mobile+Solutions;Clean+Code+%7C+Tested+Systems;Automated+Testing+Enthusiast" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-00F7FF?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Location-Gaza%2C%20Palestine-success?style=for-the-badge&logo=googlemaps"/>
-</p>
-
----
-
-### 🚀 عني | Professional Overview
-
-أنا **أسامة حلس**، مهندس جودة برمجيات (QA) ومطور تطبيقات موبايل. أجمع بين شغفي ببناء واجهات مستخدم سلسة وهوس بضمان جودة الكود واستقراره. هدفي هو بناء برمجيات لا تعمل فحسب، بل تدوم وتتوسع.
-
-- 🔍 **مهتم بـ:** تطوير الموبايل (Flutter/Android) واختبار البرمجيات.
-- 🎓 **الحالة:** أبحث عن فرصة تدريب (Internship) في بيئة تقنية متقدمة.
-- 🛠️ **الفلسفة:** الكود النظيف هو أساس النظام القابل للصيانة.
-
----
-
-### 💻 التقنيات | Tech Stack
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,java,firebase,php,laravel,mysql,sqlite,git,postman,figma,xd&perline=7" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00F7FF&height=250&section=header&text=Osama%20Hillis&fontSize=80&animation=fadeIn&fontAlignY=40" width="100%" />
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Quality+Assurance+Engineer;Mobile+App+Architect+%7C+Flutter+%26+Android;Bridging+Development+and+Testing;Crafting+Bug-Free+Digital+Experiences" />
+  </p>
+
+  <div>
+    <img src="https://img.shields.io/badge/Age-24-00F7FF?style=flat-square&logo=clock" />
+    <img src="https://img.shields.io/badge/Location-Gaza%2C%20Palestine-00F7FF?style=flat-square&logo=googlemaps" />
+    <img src="https://img.shields.io/badge/Open%20To-Internships-00F7FF?style=flat-square&logo=handshake" />
+  </div>
 </div>
 
 ---
 
-### 🛠️ المشاريع المختارة | Top Projects
+### ⚡ ملخص المسار | The Mission
+> "أنا لا أكتفي ببناء التطبيقات، أنا أهتم بكيفية عملها تحت الضغط."
 
-| 📱 المشروع | 🛠️ التقنيات | 🎯 المميزات الأساسية |
+بصفتي **مطور موبايل ومختبر جودة (QA)**، هدفي هو تقليل الفجوة بين "كتابة الكود" و "ثقة المستخدم". أركز على بناء أنظمة متينة باستخدام **Clean Architecture** مع ضمان جودتها عبر اختبارات صارمة.
+
+---
+
+### 🛠️ ترسانة الأدوات | Tech Toolbox
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <b>Mobile Development</b><br>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,android,java&perline=2" />
+    </td>
+    <td align="center" width="33%">
+      <b>Backend & Database</b><br>
+      <img src="https://skillicons.dev/icons?i=firebase,php,laravel,mysql,sqlite&perline=2" />
+    </td>
+    <td align="center" width="33%">
+      <b>Tools & Quality</b><br>
+      <img src="https://skillicons.dev/icons?i=git,postman,figma,xd,docker&perline=2" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 معرض المشاريع | Portfolio Gallery
+
+<div align="center">
+
+| 🏷️ Project Name | 💻 Tech Stack | 🌟 Key Impact |
 | :--- | :--- | :--- |
-| **Sezon App** | `Flutter` `GetX` `Firebase` | متجر إلكتروني متكامل مع نظام دفع وإدارة طلبات. |
-| **Ambulance System** | `Android` `Realtime DB` | حل طوارئ لتتبع المصابين وسيارات الإسعاف لحظياً. |
-| **Recipe App** | `Java` `SQLite` `MVVM` | تطبيق لوصفات الطعام يركز على الـ Clean Architecture. |
+| **SEZON E-Commerce** | `Flutter` `GetX` `Firebase` | High-performance retail app with seamless UX. |
+| **AMBULANCE SYSTEM** | `Android` `Firebase` `Maps` | Critical real-time emergency response platform. |
+| **RECIPE PRO** | `Java` `Android SDK` `SQLite` | Clean UI focusing on local data persistence. |
+
+</div>
 
 ---
 
-### 📈 إحصائيات العمل | GitHub Productivity
+### 📊 إحصائيات الأداء | Performance Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oasamaheles&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oasamaheles&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oasamaheles&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oasamaheles&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oasamaheles&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oasamaheles&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" width="97%" />
+</div>
 
 ---
 
-### 🤝 تواصل معي | Get In Touch
+### 🤝 لنتواصل | Connection Hub
 
 <p align="center">
-<a href="mailto:osamaheles8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.behance.net/osamaheles"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
-<a href="https://www.facebook.com/profile.php?id=100082144762832"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="mailto:osamaheles8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.behance.net/osamaheles"><img src="https://img.shields.io/badge/-Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
+<a href="https://www.facebook.com/profile.php?id=100082144762832"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oasamaheles&color=00F7FF&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
